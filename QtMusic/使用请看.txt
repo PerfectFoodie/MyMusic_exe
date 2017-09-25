@@ -1,0 +1,5 @@
+
+
+
+   启动文件在  
+   QtMusic\file\bulid_file\MyMusic_2_0.exe   
